@@ -1,5 +1,3 @@
-import re
-import os
 import math
 import pandas as pd #✨중요 pandas 다운로드 받아야함 ✨중요
 
